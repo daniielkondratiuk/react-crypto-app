@@ -41,6 +41,7 @@ export function CryptoContextProvider({children}) {
     }, []);
 
     function addAsset(newAsset) {
+        console.log(newAsset)
         setAssets((prev)=> mapAssets([...prev, newAsset], crypto))
     }
 

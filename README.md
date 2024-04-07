@@ -1,6 +1,6 @@
 # CryptoApp_React
 
-<img width="1207" src="https://github.com/daniielkondratiuk/react-crypto-app/assets/demo.png">
+<img width="1207" src="https://github.com/daniielkondratiuk/react-crypto-app/blob/master/assets/demo.png">
 
 A web application for tracking a cryptocurrency portfolio. Users can add cryptocurrencies, specifying their name, quantity, purchase price, and purchase date. The application calculates the current value of the portfolio and displays the percentage change in value. It also provides the ability to track losses or profits for each cryptocurrency.
 

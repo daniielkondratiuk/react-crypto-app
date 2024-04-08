@@ -1,4 +1,4 @@
-# CryptoApp_React
+# React Crypto App
 
 <img width="1207" src="https://github.com/daniielkondratiuk/react-crypto-app/blob/master/assets/demo.png">
 
@@ -28,9 +28,9 @@ npm install
 ```
 - Run the application:
 ```
-npm start
+npm dev
 ```
 
 ## Demo
 
-[//]: # (- [Link to GitHub pages]&#40;TODO&#41;)
+- [Link to GitHub pages](https://daniielkondratiuk.github.io/react-crypto-app/)
